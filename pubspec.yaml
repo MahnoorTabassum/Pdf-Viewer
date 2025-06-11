@@ -60,17 +60,18 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
+
   assets:
-    - assets/
-    - assets/think-and-grow-rich-napoleon-hill.pdf
     - assets/the-game-of-life-and-how-to-play-it-florence-scovel-shinn.pdf
     - assets/crime-and-punishment.pdf
-    - assets/The Power Of Now - Eckhart Tolle.pdf
-    - assets/the Light We Cannot See.pdf
-    - assets/6. The Master Key Author Charles F. Haanel.pdf
-    - assets/The Power Of Now - Eckhart Tolle.pdf
+    - assets/mind_power_secret_mental_magic.pdf
+    - assets/the_light_we_cannot_see.pdf
+    - assets/master_key_charles_haanel.pdf
+    - assets/the_power_of_now.pdf
     - assets/The-Pivot-Year.pdf
     - assets/Set_Boundaries_Find_Peace_.pdf
+
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
